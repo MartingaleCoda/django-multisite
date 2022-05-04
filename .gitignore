@@ -15,3 +15,5 @@ multisite/*.egg-info
 .coverage
 .tox/
 .pytest_cache/
+.env
+build
